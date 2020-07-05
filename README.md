@@ -1,5 +1,5 @@
 # NAME ENTITY RECOGNIZER
- A service that a url  and return a type and list of name entities.
+ A service that accept an url  and return a type and list of name entities.
 
 
 # API SCREENSHOT
