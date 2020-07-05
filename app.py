@@ -15,7 +15,7 @@ def index():
 
 @app.route('/about')
 def about():
-	return "<h1>Name entity Recognizer<h1> <p>This is the  service to used to extract entity from entered url and list out based on the entity and name list <p>"
+	return "<h1>A simple Flask API for named entity extraction using spaCy Model <p>"
 
 @app.route("/api/get_entity", methods=['GET'])
 def get_entity():
